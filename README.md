@@ -1,7 +1,4 @@
-# eng_dados-data_extraction
-Repositório módulo IV (Extração de Dados) da trilha de Engenharia de Dados (Santander Coders 2023)
-
-## Integração ETL, ELT, APIs e Arquivos
+# Integração ETL, ELT, APIs e Arquivos
 
 Você trabalha em um e-commerce de variados produtos, e no último mês os gerentes operacionais da companhia notaram que
 houve uma variação muito grande em seus estoques por períodos de até 24h, cujos produtos, voltavam ao estoque 
